@@ -1,6 +1,6 @@
 # Magnemo
-**Governed Memory for AI Agents. Sessions die. The Memory doesn't.**
+**Persistent Memory for AI Agents, with a human yes on every entry.**
 
-Magnemo is a Memory for your AI, kept on your computer in plain files. Your AI writes down what it learns as it works; nothing becomes Memory until you approve it, and every Memory shows who wrote it and who approved it.
+Open source, plain files, no network calls of its own.
 
-[magnemo.ai](https://magnemo.ai) · [Magnemo-AI/magnemo](https://github.com/Magnemo-AI/magnemo)
+→ [Magnemo-AI/magnemo](https://github.com/Magnemo-AI/magnemo) · [magnemo.ai](https://magnemo.ai)
